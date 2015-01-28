@@ -119,3 +119,5 @@ In addition to standard information (user, hostname, current directory) it will 
   * `+2` - you are 2 commits ahead
   * `=` - no difference
   * `<>` - you have diverged
+
+**Credits**: Grzegorz Mausolf
